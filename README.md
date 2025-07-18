@@ -1,2 +1,3 @@
-# Html--Demo
+# Html-Demo
 This is my first Git Repository
+Author - Mayur Alex
